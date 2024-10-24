@@ -1,0 +1,149 @@
+[24-Oct-2024 10:34:17 UTC] PHP Warning:  Undefined array key "cfp_name" in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 48
+[24-Oct-2024 10:34:17 UTC] PHP Warning:  Undefined array key "cfp_email" in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 49
+[24-Oct-2024 10:34:17 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\wordpress\wp-includes\formatting.php on line 3759
+[24-Oct-2024 10:34:17 UTC] PHP Warning:  Undefined array key "cfp_message" in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 50
+[24-Oct-2024 10:48:46 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:48:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-settings.php(522): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-config.php(101): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:50:47 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:50:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-settings.php(522): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-config.php(101): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:50:54 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:50:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-settings.php(522): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-config.php(101): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:50:56 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:50:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-settings.php(522): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-config.php(101): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:51:00 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:51:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-settings.php(522): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-config.php(101): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:51:02 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:51:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-settings.php(522): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-config.php(101): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:51:08 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:51:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-settings.php(522): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-config.php(101): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:51:28 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 10:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-settings.php(522): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-config.php(101): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 13
+[24-Oct-2024 11:00:13 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 15
+[24-Oct-2024 11:00:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php:15
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-settings.php(522): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-config.php(101): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 15
+[24-Oct-2024 11:00:15 UTC] PHP Warning:  require_once(C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 15
+[24-Oct-2024 11:00:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php:15
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-settings.php(522): include_once()
+#1 C:\xampp\htdocs\wordpress\wp-config.php(101): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\custom-form-plugin\custom-form-plugin.php on line 15
+[24-Oct-2024 11:09:21 UTC] Automatic updates starting...
+[24-Oct-2024 11:09:21 UTC] Automatic updates complete.
+[24-Oct-2024 11:21:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function {closure}(), 2 passed in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 324 and exactly 3 expected in C:\xampp\htdocs\wordpress\wp-includes\functions.php:9026
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): {closure}('', '')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\user.php(81): do_action_ref_array('wp_authenticate', Array)
+#4 C:\xampp\htdocs\wordpress\wp-login.php(1315): wp_signon(Array, '')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 9026
+[24-Oct-2024 11:21:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function {closure}(), 2 passed in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 324 and exactly 3 expected in C:\xampp\htdocs\wordpress\wp-includes\functions.php:9026
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): {closure}('admin', 'admi8')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\user.php(81): do_action_ref_array('wp_authenticate', Array)
+#4 C:\xampp\htdocs\wordpress\wp-login.php(1315): wp_signon(Array, '')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 9026
+[24-Oct-2024 11:21:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function {closure}(), 2 passed in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 324 and exactly 3 expected in C:\xampp\htdocs\wordpress\wp-includes\functions.php:9026
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): {closure}('admin', 'admi8')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\user.php(81): do_action_ref_array('wp_authenticate', Array)
+#4 C:\xampp\htdocs\wordpress\wp-login.php(1315): wp_signon(Array, '')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 9026
+[24-Oct-2024 11:21:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function {closure}(), 2 passed in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 324 and exactly 3 expected in C:\xampp\htdocs\wordpress\wp-includes\functions.php:9026
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): {closure}('admin', 'admi8')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\user.php(81): do_action_ref_array('wp_authenticate', Array)
+#4 C:\xampp\htdocs\wordpress\wp-login.php(1315): wp_signon(Array, '')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 9026
+[24-Oct-2024 11:22:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function {closure}(), 2 passed in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 324 and exactly 3 expected in C:\xampp\htdocs\wordpress\wp-includes\functions.php:9026
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(324): {closure}('admin', 'admin')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\user.php(81): do_action_ref_array('wp_authenticate', Array)
+#4 C:\xampp\htdocs\wordpress\wp-login.php(1315): wp_signon(Array, '')
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 9026

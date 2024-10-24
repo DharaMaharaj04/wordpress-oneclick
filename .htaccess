@@ -1,0 +1,30 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# Prevent Clickjacking
+<IfModule mod_headers.c>
+    Header set X-Frame-Options "DENY"
+</IfModule>
+
+# Disable XML-RPC
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_METHOD} POST
+    RewriteCond %{REQUEST_URI} ^/xmlrpc.php [NC]
+    RewriteRule .* - [F]
+</IfModule>
+
+# Redirect HTTP to HTTPS (uncomment if using HTTPS)
+# <IfModule mod_rewrite.c>
+#     RewriteEngine On
+#     RewriteCond %{HTTPS} off
+#     RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# </IfModule>
+# END WordPress
