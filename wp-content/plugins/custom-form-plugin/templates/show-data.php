@@ -1,5 +1,5 @@
 <div class="wrap">
-echo "<p>Database Name: " . esc_html(getenv('DB_NAME')) . "</p>";
+
     <h1>Saved Form Data</h1>
     <table border="2" cellpadding="5" cellspacing="0">
         <thead>
